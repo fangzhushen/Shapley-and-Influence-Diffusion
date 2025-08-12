@@ -1,0 +1,14 @@
+click
+fasteners
+Jinja2
+Mako
+MarkupSafe
+PyYAML
+Pyarrow
+fsspec
+matplotlib
+numpy
+pandas
+pyparsing
+tqdm
+maturin

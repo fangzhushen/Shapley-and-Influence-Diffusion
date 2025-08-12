@@ -1,0 +1,6 @@
+algorithm: dp_single_optimize
+runtime: 0.0785
+seed_selection_method: deg
+num_seeds: 1000
+gen_seed: 1
+parallel: True

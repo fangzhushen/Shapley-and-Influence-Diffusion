@@ -1,0 +1,8 @@
+algorithm: permute2single
+runtime: 3.6074
+seed_selection_method: deg
+num_seeds: 10
+n: 5000
+gen_seed: 1
+parallel: True
+max_hop: 1

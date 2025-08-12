@@ -1,0 +1,9 @@
+algorithm: rr
+runtime: 34.0577
+seed_selection_method: deg
+num_seeds: 5
+gen_seed: 1
+parallel: True
+k: 5
+epsilon: 0.01
+ell: 1

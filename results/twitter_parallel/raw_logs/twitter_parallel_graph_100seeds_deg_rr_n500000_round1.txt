@@ -1,0 +1,10 @@
+algorithm: rr
+runtime: 1.0444
+seed_selection_method: deg
+num_seeds: 100
+k: 5
+epsilon: 0.1
+ell: 1
+num_theta: 500000
+gen_seed: 1
+parallel: True

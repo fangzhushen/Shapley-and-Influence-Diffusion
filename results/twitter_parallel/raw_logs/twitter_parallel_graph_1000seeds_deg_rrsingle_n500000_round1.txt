@@ -1,0 +1,11 @@
+algorithm: rrsingle
+runtime: 0.5576
+seed_selection_method: deg
+num_seeds: 1000
+k: 5
+epsilon: 0.1
+ell: 1
+num_theta: 500000
+gen_seed: 1
+parallel: True
+max_hop: 1

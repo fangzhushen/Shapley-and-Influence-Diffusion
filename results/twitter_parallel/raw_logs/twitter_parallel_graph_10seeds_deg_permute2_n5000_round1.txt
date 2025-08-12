@@ -1,0 +1,7 @@
+algorithm: permute2
+runtime: 2.9202
+seed_selection_method: deg
+num_seeds: 10
+n: 5000
+gen_seed: 1
+parallel: True
